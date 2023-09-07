@@ -1,4 +1,4 @@
-# Comparative-Study-TensorFlow-vs.-Custom-Neural-Network-Models
+# Comparative Study TensorFlow v/s Custom Neural Network Models
 
 
 
